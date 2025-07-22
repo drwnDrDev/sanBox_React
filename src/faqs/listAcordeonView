@@ -1,8 +1,8 @@
 import { useState } from "react";
-import { faqs } from "./faqs/faqs";
+import { faqs } from "./faqs";
 import { Datalist } from "./faqs/Datalist";
 
-export default function App() {
+export default function ListAcordeonView() {
     const [activeIndex, setActiveIndex] = useState(null);
 
     const toggleActive = (index) => {
