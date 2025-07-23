@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { faqs } from "./faqs";
+import { faqs } from "./faqs/faqs";
 import { Datalist } from "./faqs/Datalist";
 
 export default function ListAcordeonView() {

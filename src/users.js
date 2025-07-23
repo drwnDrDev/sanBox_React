@@ -1,0 +1,15 @@
+export const users = [
+    { name: "Ana Torres", email: "ana@example.com" },
+    { name: "Carlos Ruiz", email: "carlos@example.com" },
+    { name: "Luisa Moreno", email: "luisa@example.com" },
+    { name: "Javier Gómez", email: "javier@example.com" },
+    { name: "Sofía Pérez", email: "sofia@example.com" },
+    { name: "Miguel Ángel", email: "miguel@example.com" },
+    { name: "Laura Fernández", email: "laura@example.com" },
+    { name: "David Sánchez", email: "david@example.com" },
+    { name: "Isabel Martínez", email: "isabel@example.com" },
+    { name: "Fernando López", email: "fernando@example.com" },
+    { name: "Patricia Jiménez", email: "patricia@example.com" },
+    { name: "Raúl Díaz", email: "raul@example.com" },
+    { name: "Claudia Torres", email: "claudia@example.com" },
+];
