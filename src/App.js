@@ -1,9 +1,9 @@
 import { useState } from "react";
-import { FormPaciente } from "./OrdenDeServicio/formPaciente";
+import CrearOrdenDeServicio from "./OrdenDeServicio/CrearOrdenDeServicio";
 
 export default function App() {
     
 return(
-    <FormPaciente/>
+    <CrearOrdenDeServicio/>
 )
 }
